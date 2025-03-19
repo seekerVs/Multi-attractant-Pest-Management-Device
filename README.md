@@ -13,18 +13,18 @@
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/seekerVs/SolarRiceRake_App/main/demo%20images/35f05761-01ff-42af-ad50-6f723df375db.jpg" alt="Image">
+      <img src="https://raw.githubusercontent.com/seekerVs/Multi-attractant-Pest-Management-Device/main/demo%20images/72d0027c-bde7-4991-a85b-225ecb4df875.jpg" alt="Image">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/seekerVs/SolarRiceRake_App/main/demo%20images/36520556-7697-4605-9f49-8a8f501f1edf.jpg" alt="Image">
+      <img src="https://raw.githubusercontent.com/seekerVs/Multi-attractant-Pest-Management-Device/main/demo%20images/IMG_20250317_035559_753.jpg" alt="Image">
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/seekerVs/SolarRiceRake_App/main/demo%20images/9e71e9ca-80e5-4f1b-9c12-fedc010adf0e.jpg" alt="Image">
+      <img src="https://raw.githubusercontent.com/seekerVs/Multi-attractant-Pest-Management-Device/main/demo%20images/IMG_20250317_035803_411.jpg" alt="Image">
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/seekerVs/SolarRiceRake_App/main/demo%20images/Screenshot_20241214-132059.jpg" alt="Image">
+      <img src="https://raw.githubusercontent.com/seekerVs/Multi-attractant-Pest-Management-Device/main/demo%20images/IMG_20250317_035909_693.jpg" alt="Image">
     </td>
   </tr>
 </table>
